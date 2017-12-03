@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:900,100);
+
+body {
+  padding: 2rem;
+}
+
+@media (max-width: 500px) {
+  .from {
+    transform: translate(-190px, 0px) scale(1.25);
+  }
+  .anaheim {
+    transform: translate(-90px, -10px) scale(1.3);
+  }
+}
